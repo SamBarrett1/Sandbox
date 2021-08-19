@@ -1,0 +1,9 @@
+The 'r' mode means read only. The file can't be appended or writen to.
+The 'w' mode means to open a file for writing. If the file exists it erases
+its contents. If it the file does not exist, it will be created.
+
+name
+name
+name
+name
+name
